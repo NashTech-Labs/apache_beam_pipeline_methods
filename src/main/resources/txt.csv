@@ -1,0 +1,4 @@
+The processing logic which is split logic here is defined in the following file.
+This is the processing function where takes each input from the collection and processes it and produces the output.
+You have seen the basics and implementation with Apache Beam SDK.
+Let’s run it and see the output files created in the location /src/main/resources/. Here is the demo.
